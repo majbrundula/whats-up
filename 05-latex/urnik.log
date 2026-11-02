@@ -1,0 +1,909 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.11.2)  2 NOV 2026 16:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex
+(c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-07-20>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+) (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/08/08 v26.10 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count284
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2105.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2107.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2109.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2110.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2111.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2113.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2138.
+\U@D=\dimen151
+\l@unhyphenated=\language79
+ (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count285
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4298.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Program Files\MiKTeX\tex/generic/babel/locale/sl\babel-slovene.tex
+Package babel Info: Name 'slovene' is discouraged.
+(babel)             Prefer 'slovenian' instead.
+(babel)             Reported on input line 16.
+)
+Package babel Info: Importing font and identification data for 'slovene'
+(babel)             from babel-sl.ini. Reported on input line 4426.
+ (C:\Users\mb14696\AppData\Roaming\MiKTeX\tex/latex/babel-slovenian\slovenian.ldf
+Language: slovenian 2025/05/10 v1.2p Slovenian support from the babel system
+Package babel Info: Making " an active character on input line 80.
+)) (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+)
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
+(urnik.aux)
+\openout1 = `urnik.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+Package babel Info: 'slovene' activates 'slovene' shorthands.
+(babel)             Reported on input line 10.
+Package babel Info: Main language set to 'slovene'.
+ [1
+
+{C:/Users/mb14696/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] [5] [6] [7] [8]
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:508: LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.508 \begin{}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.510 \end{}
+            Graphical User Interface" podčrtane.
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 1847 strings out of 467501
+ 31931 string characters out of 5418653
+ 458283 words of memory out of 5000000
+ 31138 multiletter control sequences out of 15000+600000
+ 635210 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,6n,44p,241b,186s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+c:/Users/mb14696/rp/racunalniski-praktikum/05-latex/urnik.tex:510:  ==> Fatal error occurred, no output PDF file produced!
