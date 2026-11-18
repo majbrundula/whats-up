@@ -1,0 +1,578 @@
+Matematični izrazi in uporaba paketa beamer
+Vaje pri predmetu Računalniški praktikum
+
+
+Fakulteta za matematiko in fiziko
+
+
+
+
+                                              1
+Kratek pregled
+
+
+
+   Paket beamer
+
+
+   Paketa amsmath in amsfonts
+
+
+   Stolpci in slike
+
+
+   Paket beamer in tabele
+
+
+   Risanje s paketom TikZ
+
+
+
+
+                                2
+Paket beamer
+Posebnosti prosojnic
+
+
+
+
+   Za prosojnice je značilna uporaba okolja frame, s katerim
+   definiramo posamezno prosojnico,
+
+
+
+
+                                                               3
+Posebnosti prosojnic
+
+
+
+
+   Za prosojnice je značilna uporaba okolja frame, s katerim
+   definiramo posamezno prosojnico, postopno odkrivanje prosojnic,
+
+
+
+
+                                                                     3
+Posebnosti prosojnic
+
+
+
+
+   Za prosojnice je značilna uporaba okolja frame, s katerim
+   definiramo posamezno prosojnico, postopno odkrivanje prosojnic,
+   ter nekateri drugi ukazi, ki jih najdemo v paketu beamer.
+
+
+
+
+                                                                     3
+Posebnosti prosojnic
+
+
+
+
+   Za prosojnice je značilna uporaba okolja frame, s katerim
+   definiramo posamezno prosojnico, postopno odkrivanje prosojnic,
+   ter nekateri drugi ukazi, ki jih najdemo v paketu beamer.
+   Primer
+   Verjetno ste že opazili, da za naslovno prosojnico niste uporabili
+   ukaza maketitle, ampak ukaz titlepage.
+
+
+
+
+                                                                        3
+Poudarjeni bloki
+
+
+
+
+   Opomba
+   Okolja za poudarjene bloke so block, exampleblock in
+   alertblock.
+
+   Pozor!
+   Začetek poudarjenega bloka (ukaz begin) vedno sprejme dva
+   argumenta: okolje in naslov bloka. Drugi argument (za naslov) je
+   lahko prazen.
+
+
+
+
+                                                                      4
+Tudi v predstavitvah lahko pišemo izreke in dokaze
+
+
+   Izrek
+   Praštevil je neskončno mnogo.
+
+   Dokaz.
+   Denimo, da je praštevil končno mnogo.
+
+     • Naj bo p največje praštevilo.
+
+
+
+
+                                                     5
+Tudi v predstavitvah lahko pišemo izreke in dokaze
+
+
+   Izrek
+   Praštevil je neskončno mnogo.
+
+   Dokaz.
+   Denimo, da je praštevil končno mnogo.
+
+     • Naj bo p največje praštevilo.
+     • Naj bo q produkt števil 1, 2, . . . , p.
+
+
+
+
+                                                     5
+Tudi v predstavitvah lahko pišemo izreke in dokaze
+
+
+   Izrek
+   Praštevil je neskončno mnogo.
+
+   Dokaz.
+   Denimo, da je praštevil končno mnogo.
+
+     • Naj bo p največje praštevilo.
+     • Naj bo q produkt števil 1, 2, . . . , p.
+     • Število q + 1 ni deljivo z nobenim praštevilom, torej je q + 1
+       praštevilo.
+
+
+
+
+                                                                        5
+Tudi v predstavitvah lahko pišemo izreke in dokaze
+
+
+   Izrek
+   Praštevil je neskončno mnogo.
+
+   Dokaz.
+   Denimo, da je praštevil končno mnogo.
+
+     • Naj bo p največje praštevilo.
+     • Naj bo q produkt števil 1, 2, . . . , p.
+     • Število q + 1 ni deljivo z nobenim praštevilom, torej je q + 1
+       praštevilo.
+     • To je protislovje, saj je q + 1 > p.
+
+
+                                                                        5
+Paketa amsmath in amsfonts
+Postopno odkrivanje v okolju align
+
+
+
+   Dokaži binomsko formulo: za vsaki realni števili a in b in za vsako
+   naravno število n velja
+
+   (a + b)n = . . .
+
+
+
+
+                 n  
+                 X  n
+             =             an−k b k
+                       k
+                 k=0
+
+
+
+
+                                                                         6
+Postopno odkrivanje v okolju align
+
+
+
+
+   Dokaži binomsko formulo: za vsaki realni števili a in b in za vsako
+   naravno število n velja
+
+   (a + b)n = (a + b)(a + b) . . . (a + b)
+
+
+                n  
+                X  n
+            =             an−k b k
+                      k
+                k=0
+
+
+
+
+                                                                         6
+Postopno odkrivanje v okolju align
+
+
+
+
+   Dokaži binomsko formulo: za vsaki realni števili a in b in za vsako
+   naravno število n velja
+
+   (a + b)n = (a + b)(a + b) . . . (a + b)
+                                       
+               n     n−1               n n−k k
+            = a + na b + · · · +           a b + · · · + nab n−1 + b n
+                                       k
+               n  
+              X    n n−k k
+            =         a    b
+                   k
+               k=0
+
+
+
+
+                                                                         6
+Stolpci in slike
+Konstrukcija pravokotnice
+
+
+
+   • Dana sta premica p in točka T .
+
+
+
+
+                                       7
+Konstrukcija pravokotnice
+
+
+
+   • Dana sta premica p in točka T .
+   • Nariši lok k s središčem v T .
+
+
+
+
+                                       7
+Konstrukcija pravokotnice
+
+
+
+   • Dana sta premica p in točka T .
+   • Nariši lok k s središčem v T .
+   • Lok k seče premico p v točkah
+     A in B.
+
+
+
+
+                                       7
+Konstrukcija pravokotnice
+
+
+
+   • Dana sta premica p in točka T .
+   • Nariši lok k s središčem v T .
+   • Lok k seče premico p v točkah
+     A in B.
+   • Nariši lok m s središčem v A.
+
+
+
+
+                                       7
+Konstrukcija pravokotnice
+
+
+
+   • Dana sta premica p in točka T .
+   • Nariši lok k s središčem v T .
+   • Lok k seče premico p v točkah
+     A in B.
+   • Nariši lok m s središčem v A.
+   • Nariši lok n s središčem v B in z
+     enakim polmerom.
+
+
+
+
+                                         7
+Konstrukcija pravokotnice
+
+
+
+   • Dana sta premica p in točka T .
+   • Nariši lok k s središčem v T .
+   • Lok k seče premico p v točkah
+     A in B.
+   • Nariši lok m s središčem v A.
+   • Nariši lok n s središčem v B in z
+     enakim polmerom.
+   • Loka se sečeta v točki C .
+
+
+
+
+                                         7
+Konstrukcija pravokotnice
+
+
+
+   • Dana sta premica p in točka T .
+   • Nariši lok k s središčem v T .
+   • Lok k seče premico p v točkah
+     A in B.
+   • Nariši lok m s središčem v A.
+   • Nariši lok n s središčem v B in z
+     enakim polmerom.
+   • Loka se sečeta v točki C .
+   • Premica TC je pravokotna na p.
+
+
+
+                                         7
+Paket beamer in tabele
+Odkrivanje tabele po vrsticah
+
+
+
+
+   Včasih pride prav, da tabelo odkrivamo postopoma po vrsticah.
+
+                       Oznaka    A   B   C   D
+
+
+
+
+                                                                   8
+Odkrivanje tabele po vrsticah
+
+
+
+
+   Včasih pride prav, da tabelo odkrivamo postopoma po vrsticah.
+
+                       Oznaka    A   B   C   D
+                         X       1   2   3   4
+
+
+
+
+                                                                   8
+Odkrivanje tabele po vrsticah
+
+
+
+
+   Včasih pride prav, da tabelo odkrivamo postopoma po vrsticah.
+
+                       Oznaka    A   B   C   D
+                         X       1   2   3   4
+                         Y       3   4   5   6
+
+
+
+
+                                                                   8
+Odkrivanje tabele po vrsticah
+
+
+
+
+   Včasih pride prav, da tabelo odkrivamo postopoma po vrsticah.
+
+                       Oznaka    A   B   C   D
+                         X       1   2   3   4
+                         Y       3   4   5   6
+                         Z       5   6   7   8
+
+
+
+
+                                                                   8
+Odkrivanje tabele po stolpcih
+
+
+
+
+   Tabelo lahko odkrivamo tudi po stolpcih, čeprav ni najlažje.
+
+                        Oznaka
+                          X
+                          Y
+                          Z
+
+
+
+
+                                                                  9
+Odkrivanje tabele po stolpcih
+
+
+
+
+   Tabelo lahko odkrivamo tudi po stolpcih, čeprav ni najlažje.
+
+                        Oznaka    A
+                          X       1
+                          Y       3
+                          Z       5
+
+
+
+
+                                                                  9
+Odkrivanje tabele po stolpcih
+
+
+
+
+   Tabelo lahko odkrivamo tudi po stolpcih, čeprav ni najlažje.
+
+                        Oznaka    A    B
+                          X       1    2
+                          Y       3    4
+                          Z       5    6
+
+
+
+
+                                                                  9
+Odkrivanje tabele po stolpcih
+
+
+
+
+   Tabelo lahko odkrivamo tudi po stolpcih, čeprav ni najlažje.
+
+                        Oznaka    A    B   C
+                          X       1    2   3
+                          Y       3    4   5
+                          Z       5    6   7
+
+
+
+
+                                                                  9
+Odkrivanje tabele po stolpcih
+
+
+
+
+   Tabelo lahko odkrivamo tudi po stolpcih, čeprav ni najlažje.
+
+                        Oznaka    A    B   C   D
+                          X       1    2   3   4
+                          Y       3    4   5   6
+                          Z       5    6   7   8
+
+
+
+
+                                                                  9
+Risanje s paketom TikZ
+Konstrukcija pravokotnice
+
+
+
+
+                            T
+
+
+
+                                p
+
+
+
+
+                                    10
+Konstrukcija pravokotnice
+
+
+
+
+                            T
+
+
+
+                                    p
+                   A            B
+
+
+
+
+                                        10
+Konstrukcija pravokotnice
+
+
+
+
+                            T
+
+
+
+                                    p
+                   A            B
+
+
+
+
+                                        10
+Konstrukcija pravokotnice
+
+
+
+
+                            T
+
+
+
+                                    p
+                   A            B
+
+
+
+
+                                        10
+Konstrukcija pravokotnice
+
+
+
+
+                            T
+
+
+
+                                        p
+                   A                B
+
+
+                                C
+
+
+
+
+                                            10
+Konstrukcija pravokotnice
+
+
+
+
+                            T
+
+
+
+                                        p
+                   A                B
+
+
+                                C
+
+
+
+
+                                            10
+
