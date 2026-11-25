@@ -1,8 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.18)  18 NOV 2026 18:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.18)  25 NOV 2026 18:13
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**prosojnice.texpdflatex prosojnice.tex
+**./prosojnice.tex
 (prosojnice.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1094,37 +1095,54 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
 aTeX to use the Fira fonts on input line 95.
 
-)))
-\c@izrek=\count378
+))) (C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen334
+\ar@mcellbox=\box107
+\extrarowheight=\dimen335
+\NC@list=\toks55
+\extratabsurround=\skip154
+\backup@length=\skip155
+\ar@cellbox=\box108
+)
+(C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryintersections.code.tex
+(C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryintersections.code.tex
+(C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)
+\pgf@intersect@solutions=\count378
+))
+\c@izrek=\count379
 
 (C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count379
+\l__color_backend_stack_int=\count380
 ) (prosojnice.aux
 Package babel Info: 'slovene' activates 'slovene' shorthands.
 (babel)             Reported on input line 8.
 )
 \openout1 = `prosojnice.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1164,17 +1182,17 @@ LaTeX Font Info:    ... okay on input line 13.
 (C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count380
-\scratchdimen=\dimen334
-\scratchbox=\box107
-\nofMPsegments=\count381
-\nofMParguments=\count382
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count383
-\MPscratchDim=\dimen335
-\MPnumerator=\count384
-\makeMPintoPDFobject=\count385
-\everyMPtoPDFconversion=\toks56
+\scratchcounter=\count381
+\scratchdimen=\dimen336
+\scratchbox=\box109
+\nofMPsegments=\count382
+\nofMParguments=\count383
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count384
+\MPscratchDim=\dimen337
+\MPnumerator=\count385
+\makeMPintoPDFobject=\count386
+\everyMPtoPDFconversion=\toks57
 )
 (C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1186,68 +1204,68 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 16.
  (prosojnice.out) (prosojnice.out)
 \@outlinefile=\write5
 \openout5 = `prosojnice.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 13.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 13.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 16.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 13.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 13.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 13.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 13.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 13.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 13.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 13.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 13.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 13.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 13.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 13.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 13.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 13.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 13.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 13.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 13.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 13.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 13.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 13.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 13.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 13.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 16.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 13
+(Font)              `pureletters' in the math version `normal' on input line 16
 .
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 13
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 16
 .
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 13.
+(Font)              `pureletters' in the math version `bold' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 13
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 16
 .
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 13.
+ut line 16.
 
 (C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -1274,9 +1292,9 @@ heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (prosojnice.nav)
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 31.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 34.
 
-Overfull \vbox (44.54378pt too high) detected at line 31
+Overfull \vbox (44.54378pt too high) detected at line 34
  []
 
 [1
@@ -1285,20 +1303,20 @@ Overfull \vbox (44.54378pt too high) detected at line 31
 (prosojnice.toc) [2
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
 
 
 (C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
 
 
 (C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 44.
+ut line 47.
 
 (C:\Users\majbr\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
 erncmss.fd
@@ -1306,7 +1324,7 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 ) [3
 
-] [4
+] (prosojnice/2-paket-beamer.tex [4
 
 ] [5
 
@@ -1314,7 +1332,156 @@ thkerncmss.
 
 ] [7
 
+] [8
+
+] [9
+
+] [10
+
 ]
+[11
+
+] [12
+
+]) [13
+
+] (prosojnice/3-odkrivanje-v-okolju-align.tex [14
+
+] [15
+
+] [16
+
+])
+[17
+
+] (prosojnice/4-stolpci-slike.tex
+<slike/fig-1.png, id=149, 191.87685pt x 123.5817pt>
+File: slike/fig-1.png Graphic file (type png)
+<use slike/fig-1.png>
+Package pdftex.def Info: slike/fig-1.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 91.62814pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [][] 
+ []
+
+[18
+
+ <./slike/fig-1.png (PNG copy)>]
+<slike/fig-2.png, id=155, 191.87685pt x 123.5817pt>
+File: slike/fig-2.png Graphic file (type png)
+<use slike/fig-2.png>
+Package pdftex.def Info: slike/fig-2.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 91.62814pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+[19
+
+ <./slike/fig-2.png (PNG copy)>]
+<slike/fig-3.png, id=162, 191.87685pt x 123.5817pt>
+File: slike/fig-3.png Graphic file (type png)
+<use slike/fig-3.png>
+Package pdftex.def Info: slike/fig-3.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 91.62814pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+[20
+
+ <./slike/fig-3.png (PNG copy)>]
+<slike/fig-4.png, id=168, 191.87685pt x 123.5817pt>
+File: slike/fig-4.png Graphic file (type png)
+<use slike/fig-4.png>
+Package pdftex.def Info: slike/fig-4.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 91.62814pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+[21
+
+ <./slike/fig-4.png (PNG copy)>]
+<slike/fig-5.png, id=174, 191.87685pt x 123.5817pt>
+File: slike/fig-5.png Graphic file (type png)
+<use slike/fig-5.png>
+Package pdftex.def Info: slike/fig-5.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 91.62814pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+[22
+
+ <./slike/fig-5.png (PNG copy)>]
+<slike/fig-6.png, id=180, 191.87685pt x 123.5817pt>
+File: slike/fig-6.png Graphic file (type png)
+<use slike/fig-6.png>
+Package pdftex.def Info: slike/fig-6.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 91.62814pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+[23
+
+ <./slike/fig-6.png (PNG copy)>]
+<slike/fig-7.png, id=186, 191.87685pt x 123.5817pt>
+File: slike/fig-7.png Graphic file (type png)
+<use slike/fig-7.png>
+Package pdftex.def Info: slike/fig-7.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 91.62814pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+[24
+
+ <./slike/fig-7.png (PNG copy)>]) [25
+
+] (prosojnice/5-beamer-tabele.tex
+[26
+
+] [27
+
+] [28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
+
+] [33
+
+] [34
+
+]) [35
+
+]
+(prosojnice/6-risanje-tikz.tex [36
+
+] [37
+
+] [38
+
+] [39
+
+] [40
+
+] [41
+
+])
 \tf@nav=\write6
 \openout6 = `prosojnice.nav'.
 
@@ -1333,25 +1500,37 @@ Package rerunfilecheck Info: File `prosojnice.out' has not changed.
 (rerunfilecheck)             Checksum: 96BADE6713E176C180B1994A815A51B2;741.
  ) 
 Here is how much of TeX's memory you used:
- 27423 strings out of 467871
- 549397 string characters out of 5418375
- 933700 words of memory out of 5000000
- 55722 multiletter control sequences out of 15000+600000
- 641477 words of font info for 73 fonts, out of 8000000 for 9000
+ 28582 strings out of 467871
+ 576147 string characters out of 5418375
+ 953732 words of memory out of 5000000
+ 56783 multiletter control sequences out of 15000+600000
+ 643424 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,137p,1901b,761s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
+ 128i,13n,394p,1898b,1035s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 1095.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecss1095.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecsx1200.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecss0800.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\majbr\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk>
-Output written on prosojnice.pdf (7 pages, 53607 bytes).
+0\ecsi1095.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecsx1095.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ectt1095.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\majbr\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\majbr\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\majbr\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\majbr\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\majbr\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk><C:/Users/m
+ajbr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
+:/Users/majbr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+10.pfb><C:/Users/majbr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmss10.pfb><C:/Users/majbr/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmss8.pfb><C:/Users/majbr/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmssi10.pfb><C:/Users/majbr/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/majbr/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/majbr/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on prosojnice.pdf (41 pages, 274917 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 588 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
